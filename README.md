@@ -1,2 +1,2 @@
-# serverless-portfolio
-Portfolio of work made with AWS
+# Serverless Portfolio
+Portfolio created with AWS technology
